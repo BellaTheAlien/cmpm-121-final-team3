@@ -10,7 +10,6 @@ Design Lead: Aaron Mai
 
 Testing Lead: Neila Miranda
 
-
 ## Tools and materials
 
 1. Engine: We plan to use [three.js](https://threejs.org) as our main engine due to it's compatability with [TypeScript](typescriptlang.org), which our team has a shared amount of experience with. However, this may change in the future with further internal disscussion.
