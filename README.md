@@ -10,7 +10,6 @@ Design Lead: Aaron Mai
 
 Testing Lead: Neila Miranda
 
-
 ## Tools and materials
 
 1. Engine: We plan to use [three.js](https://threejs.org) as our main engine due to it's compatability with [TypeScript](typescriptlang.org), which our team has a shared amount of experience with. However, this may change in the future with further internal disscussion.
@@ -22,4 +21,5 @@ Testing Lead: Neila Miranda
 4. Generative AI: Although we are not pushing for the use of Generative AI in this project, We wish for CoPilot to be an option for those in the team who wish to use it. We are not restricting AI usage, which means we are allowing features like auto-complete and direct code editing.
 
 ## Outlook
+
 Our team is hoping to learn about three.js because we were intrigued about the types of games that were made with it. Being able to create with TypeScript and access these games on a web browser is something we want to accomplish.
