@@ -14,7 +14,7 @@ Testing Lead: Neila Miranda
 
 1. Engine: We plan to use [three.js](https://threejs.org) as our main engine due to it's compatability with [TypeScript](typescriptlang.org), which our team has a shared amount of experience with. However, this may change in the future with further internal disscussion.
 
-2. Language: Our main language will initially be TypeScript due to the common experience out team members have with the language. Further talks are required if the breadth of TypeScript's abilities contstrain the porject's vision. 
+2. Language: Our main language will initially be TypeScript due to the common experience out team members have with the language. Further talks are required if the breadth of TypeScript's abilities contstrain the project's vision.
 
 3. Tools: We will be using VS Code and GitHub CodeSpaces due to its overall accessibility and since it provides support for the engines we plan on using.
 
