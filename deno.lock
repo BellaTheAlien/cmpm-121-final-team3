@@ -6,6 +6,7 @@
     "npm:geojson@0.5": "0.5.0",
     "npm:leaflet@^1.9.4": "1.9.4",
     "npm:murmur-32@1": "1.0.0",
+    "npm:three@~0.181.1": "0.181.1",
     "npm:vite@7": "7.1.12_picomatch@4.0.3",
     "npm:vite@^7.1.12": "7.1.12_picomatch@4.0.3"
   },
@@ -381,6 +382,9 @@
     "source-map-js@1.2.1": {
       "integrity": "sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA=="
     },
+    "three@0.181.1": {
+      "integrity": "sha512-bz9xZUQMw3pJbjKy7roiwXWgAp+oVUa+4k5o0oBAQ+IFJuru1xzvtk63h6k72XZanXS/SgoEhV6927Vgazyq2w=="
+    },
     "tinyglobby@0.2.15_picomatch@4.0.3": {
       "integrity": "sha512-j2Zq4NyQYG5XMST4cbs02Ak8iJUdxRM0XI5QyxXuZOzKOINmWurp3smXu3y5wDcJrptwpSjgXHzIQxR0omXljQ==",
       "dependencies": [
@@ -410,6 +414,7 @@
       "npm:geojson@0.5",
       "npm:leaflet@^1.9.4",
       "npm:murmur-32@1",
+      "npm:three@~0.181.1",
       "npm:vite@^7.1.12"
     ]
   }
