@@ -1,13 +1,13 @@
 {
-  "hash": "3e8c86c5",
-  "configHash": "ae329457",
+  "hash": "b823337b",
+  "configHash": "cc4e1c63",
   "lockfileHash": "e3b0c442",
-  "browserHash": "86205dbb",
+  "browserHash": "260e9866",
   "optimized": {
     "three": {
-      "src": "../../node_modules/.deno/three@0.181.1/node_modules/three/build/three.module.js",
+      "src": "../../node_modules/three/build/three.module.js",
       "file": "three.js",
-      "fileHash": "35392f29",
+      "fileHash": "d4144e75",
       "needsInterop": false
     }
   },
